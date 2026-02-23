@@ -1,5 +1,13 @@
 
-# Even Demo
+# even-demo-reference
+
+This repository is used as a protocol reference for the project **smart-glasses-field-safety**.
+
+It mirrors the original EvenDemoApp and is maintained only for specification and protocol study purposes.
+
+---
+
+# Even Demo# Even Demo
 
 ## Even AI
 The general process of the Even AI function is as follows: After the app and glasses are 
