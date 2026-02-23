@@ -7,7 +7,7 @@ It mirrors the original EvenDemoApp and is maintained only for specification and
 
 ---
 
-# Even Demo# Even Demo
+# Even Demo
 
 ## Even AI
 The general process of the Even AI function is as follows: After the app and glasses are 
